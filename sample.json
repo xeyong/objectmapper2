@@ -1,0 +1,16 @@
+{
+  "name" : "홍길동",
+  "age" : 10,
+  "cars" : [
+    {
+      "name" : "lamborgini",
+      "car_number" : "1111",
+      "TYPE" : ""
+    },
+    {
+      "name" : "ferrari",
+      "car_number" : "2222",
+      "TYPE" : ""
+    }
+  ]
+}
